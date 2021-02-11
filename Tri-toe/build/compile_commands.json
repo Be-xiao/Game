@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/noah/Documents/code/vs_c/Tri-toe/build",
+  "command": "/bin/gcc-9  -I/home/noah/Documents/code/vs_c/Tri-toe/include  -g   -o CMakeFiles/test_cmake.dir/test.c.o   -c /home/noah/Documents/code/vs_c/Tri-toe/test.c",
+  "file": "/home/noah/Documents/code/vs_c/Tri-toe/test.c"
+},
+{
+  "directory": "/home/noah/Documents/code/vs_c/Tri-toe/build",
+  "command": "/bin/gcc-9  -I/home/noah/Documents/code/vs_c/Tri-toe/include  -g   -o CMakeFiles/test_cmake.dir/src/game.c.o   -c /home/noah/Documents/code/vs_c/Tri-toe/src/game.c",
+  "file": "/home/noah/Documents/code/vs_c/Tri-toe/src/game.c"
+}
+]

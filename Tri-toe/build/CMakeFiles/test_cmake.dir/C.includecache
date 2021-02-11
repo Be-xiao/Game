@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/game.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
+/home/noah/Documents/code/vs_c/Tri-toe/src/game.c
+game.h
+/home/noah/Documents/code/vs_c/Tri-toe/src/game.h
+
+/home/noah/Documents/code/vs_c/Tri-toe/test.c
+game.h
+/home/noah/Documents/code/vs_c/Tri-toe/game.h
+

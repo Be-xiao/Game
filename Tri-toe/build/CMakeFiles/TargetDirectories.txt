@@ -1,0 +1,3 @@
+/home/noah/Documents/code/vs_c/Tri-toe/build/CMakeFiles/rebuild_cache.dir
+/home/noah/Documents/code/vs_c/Tri-toe/build/CMakeFiles/edit_cache.dir
+/home/noah/Documents/code/vs_c/Tri-toe/build/CMakeFiles/test_cmake.dir
